@@ -5,9 +5,9 @@ BSQ is the first Elementary Programming project in C at Epitech
 
 ## Contents 📌
 
- - [Goal](https://github.com/Thorf1nn/bsq/blob/main/README.md#goal-)
- - [Usage](https://github.com/Thorf1nn/bsq/blob/main/README.md#usage-)
- - [More](https://github.com/Thorf1nn/bsq/blob/main/README.md#more-)
+ - [Goal](https://github.com/Thorf1nn/bsq#goal-)
+ - [Usage](https://github.com/Thorf1nn/bsq#usage-)
+ - [More](https://github.com/Thorf1nn/bsq#more-)
 
 
 ## Goal 🎯
